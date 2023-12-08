@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Be Vietnam Pro', sans-serif;
+  color: #E2E4F3;
+  font-size: 16px;
+} 

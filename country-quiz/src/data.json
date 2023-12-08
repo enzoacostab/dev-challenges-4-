@@ -1,0 +1,52 @@
+[
+  {
+    "question": "¿Cuál es el país más grande del mundo por área?",
+    "options": ["Rusia", "Canadá", "China", "Estados Unidos"],
+    "correct_answer": "Rusia"
+  },
+  {
+    "question": "¿Cuál es el país más poblado del mundo?",
+    "options": ["China", "India", "Estados Unidos", "Indonesia"],
+    "correct_answer": "China"
+  },
+  {
+    "question": "¿Cuál es el país con el idioma oficial más hablado del mundo?",
+    "options": ["Chino mandarín", "Español", "Inglés", "Hindi"],
+    "correct_answer": "Chino mandarín"
+  },
+  {
+    "question": "¿Cuál es el país con la capital más alta del mundo?",
+    "options": ["La Paz, Bolivia", "Quito, Ecuador", "Asmara, Eritrea", "Lhasa, China"],
+    "correct_answer": "La Paz, Bolivia"
+  },
+  {
+    "question": "¿Cuál es el país con la moneda más valiosa del mundo?",
+    "options": ["Dinar kuwaití", "Dinar bahreiní", "Riyal saudí", "Franco suizo"],
+    "correct_answer": "Dinar kuwaití"
+  },
+  {
+    "question": "¿Cuál es el país con el mayor número de islas?",
+    "options": ["Indonesia", "Filipinas", "Papúa Nueva Guinea", "Japón"],
+    "correct_answer": "Indonesia"
+  },
+  {
+    "question": "¿Cuál es el país con el menor número de habitantes?",
+    "options": ["Vaticano", "Mónaco", "Tuvalu", "Nauru"],
+    "correct_answer": "Vaticano"
+  },
+  {
+    "question": "¿Cuál es el país con la mayor población de habla hispana?",
+    "options": ["México", "España", "Colombia", "Argentina"],
+    "correct_answer": "México"
+  },
+  {
+    "question": "¿Cuál es el país con la mayor población de habla inglesa?",
+    "options": ["Estados Unidos", "India", "Canadá", "Reino Unido"],
+    "correct_answer": "India"
+  },
+  {
+    "question": "¿Cuál es el país con el mayor número de idiomas oficiales?",
+    "options": ["India", "Indonesia", "Nigeria", "Estados Unidos"],
+    "correct_answer": "India"
+  }
+]
